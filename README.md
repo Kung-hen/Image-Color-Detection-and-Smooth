@@ -21,10 +21,16 @@
 
 1.Image Prcessing
 
-* 1.1 Color Separation
-![image](Figures/1.1_result.png)
+* 1.1 Color Separation :
+    * Extract 3 channels of the image BGR to 3 separated channels.
+      
+      ![image](Figures/1.1_result.png)
+* 1.2 Color Transformation :
+  
+    * Transform image into grayscale image
+    * Merge BGR separated channel images from above problem into grayscale image by average weight : (R+G+B)/3.
 
-* 1.2 Color Transformation
+
 * 1.3 Color Detection
 * 1.4 Blendling
     
