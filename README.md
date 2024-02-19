@@ -3,18 +3,20 @@
 
 
 **Discription:**
-1. This is just a small project that we want to practice the basic image processing skills for computer vision.
-2. There are have five small topic (Image processing).
-3. Every topics With simple GUI.
 
-**1.Image processing:**
+***1. This is just a small project that we want to practice the basic image processing skills for computer vision.***
 
-***This topic was focus on image processing over color and used filters to do image smoothing.***
+***2.This topic was focus on image processing over color and used filters to do image smoothing.***
 
-![image](https://github.com/Kung-hen/Computer-Vision/blob/main/Figure/GUI.png)
+![image](Figures/GUI.png)
 
+**3.Usage:**
 
-**Feature work:**
+1. Downloads whole repository and change path into the main folder
+2. Run "start.py" .
+3. Input the image name you want to test.
+4. Run the whole code.
+
 
 1.Image Prcessing
 
