@@ -32,8 +32,10 @@
 
       ![image](Figures/1.2_result.png)
 * 1.3 Color Detection
+
+     
 * 1.4 Blendling
-   * Strong dog.jpg( )and Weak dog.jpg() to be example
+   * Here [Dog_Strong.jpg](Figures/Dog_Strong.jpg) and [Dog_Weak.jpg](Figures/Dog_Weak.jpg) to be example
 
    https://github.com/Kung-hen/Image-processing-and-smooth/assets/95673520/ce2d8d34-6793-4961-8f74-fe055452e71e
 
