@@ -13,7 +13,7 @@
 **2.Usage:**
 
 1. Downloads whole repository and change path into the main folder
-2. Run "start.py" .
+2. Run `python start.py` .
 3. Input the image 1 for feature 1 and image 2 for feature 2.
 4. Run the whole code.
 
@@ -30,9 +30,14 @@
     * Transform image into grayscale image
     * Merge BGR separated channel images from above problem into grayscale image by average weight : (R+G+B)/3.
 
-
+      ![image](Figures/1.2_result.png)
 * 1.3 Color Detection
 * 1.4 Blendling
+   * Strong dog.jpg( )and Weak dog.jpg() to be example
+
+   https://github.com/Kung-hen/Image-processing-and-smooth/assets/95673520/ce2d8d34-6793-4961-8f74-fe055452e71e
+
+
     
 2.Image Smoothing
 
