@@ -3,13 +3,21 @@
 
 
 
-**1.Discription:**
+*Discription:*
 
 ***1. This is just a small project that we want to practice the basic image processing skills for computer vision.***
 
 ***2.This topic was focus on image processing over color and used filters to do image smoothing.***
 
 ![image](Figures/GUI.png)
+
+
+
+**1.Requirements and dependencies**
+  * Python 3.7 (https://www.python.org/downloads/)
+  * Opencv-contrib-python (3.4.2.17)
+  * Matplotlib 3.1.1
+  * UI framework: pyqt5 (5.15.1)
 
 **2.Usage:**
 
